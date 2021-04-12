@@ -1,12 +1,12 @@
 # Loan Qualifier
 
-This is a command-line interface application for entering entering user info to determin qualifying loans written in python
+This is a command-line interface application for entering entering user info to determine qualifying loans written in python
 
 ---
 
 ## Technologies
 
-his project leverages python 3.7 with the following packages:
+This project leverages python 3.7 with the following packages:
 
 * [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
 
@@ -37,7 +37,7 @@ python app.py
 ```
 
 Upon launching the loan qualifier you will be greeted with the following prompts.
-
+![loan_qualifier](Images/loan_qualifier.png)
 ---
 
 ## Contributors
