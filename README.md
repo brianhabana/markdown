@@ -27,7 +27,8 @@ pip install pytest
 
 ## Usage
 
-(python app.py)[python app.py]
+python app.py
+
 ---
 
 ## Contributors
