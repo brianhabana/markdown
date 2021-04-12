@@ -37,7 +37,7 @@ python app.py
 ```
 
 Upon launching the loan qualifier you will be greeted with the following prompts.
-![loan_qualifier](Images/loan_qualifier.png)
+![loan_qualifier](loan_qualifier.png)
 ---
 
 ## Contributors
