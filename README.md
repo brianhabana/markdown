@@ -11,7 +11,9 @@ This application prompts the user for the below information and provides a list 
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+fire
+questionary
+pytest
 
 ---
 
