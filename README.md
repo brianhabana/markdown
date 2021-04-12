@@ -36,8 +36,9 @@ To use the clothes picker application simply clone the repository and run the **
 python app.py
 ```
 
-Upon launching the loan qualifier you will be greeted with the following prompts.
-![loan_qualifier](loan_qualifier.png)
+Upon launching the loan qualifier you will be greeted with the following prompts
+
+![Loan Qualifier CLI](loan_qualifier.png)
 ---
 
 ## Contributors
