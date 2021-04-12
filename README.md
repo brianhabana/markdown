@@ -1,6 +1,6 @@
 # Loan Qualifier
 
-This is a command-line interface application for entering entering user info to determine qualifying loans written in python
+This is a command-line interface application for entering entering user info to determine which loans the user qualifys for, written in python
 
 ---
 
