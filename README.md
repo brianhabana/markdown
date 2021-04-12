@@ -38,12 +38,12 @@ python app.py
 
 Upon launching the loan qualifier you will be greeted with the following prompts
 
-![Loan Qualifier CLI](loan_qualifier.png)
+![Loan Qualifier CLI](loan_qalifier.png)
 ---
 
 ## Contributors
 
-me
+Brian Habana
 
 ---
 
