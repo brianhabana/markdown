@@ -8,4 +8,7 @@
 
 print("nice to meet you!")
 
+[code](code)
+[data](data)
+[references](references)
 
