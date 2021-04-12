@@ -2,6 +2,9 @@
 
 > "to boldly go..."
 ---
+
+![markdown-image]()
+
 **Welcome to my fintech assets**
 
 ```python
