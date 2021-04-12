@@ -30,7 +30,7 @@ pip install pytest
 
 ## Usage
 
-To use the clothes picker application simply clone the repository and run the **app.py**
+To use the loans qualifier application simply clone the repository and run the **app.py**
 
 ```python
 python app.py
