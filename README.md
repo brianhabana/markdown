@@ -1,6 +1,11 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application prompts the user for the below information and provides a list of qualifying loans from csv file
+1. credit score
+2. debt
+3. income
+4. desired loan amount
+5. home value
 
 ---
 
