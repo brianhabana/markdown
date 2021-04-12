@@ -49,4 +49,4 @@ Brian Habana
 
 ## License
 
-Unlimited
+MIT
