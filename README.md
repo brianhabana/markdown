@@ -1,7 +1,4 @@
-# markdown
-
-# Fintech Repository
-
-## Fintech Repository
-
 ### Fintech Repository
+
+---
+**Welcome to my fintech assets**
